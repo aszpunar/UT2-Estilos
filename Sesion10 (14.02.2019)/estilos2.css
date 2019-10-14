@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .divClass{
+    border:3px solid black;
+    color: cornflowerblue;
+    margin-top: 100px; 
+    margin-bottom: 100px; 
+    margin-right: 150px; 
+    margin-left: 80px;
+    
+} */
+
+/* .divClass{
+    border:3px solid black;
+    color: cornflowerblue;
+    margin: 100px 150px 100px 80px; 
+     top, right, bottom, left
+
+} */
+
+
+
+
+
+
+/* 
+.divClass{
+    border:3px solid black;
+    color: cornflowerblue;
+    width: 200px; 
+    margin: auto; 
+} */
+
+
+
+
+
+
+
+/* div { 
+    border: 1px solid blue; 
+    margin-left: 100px; 
+} 
+p { 
+    margin-left: inherit; 
+} */
+
+
+h1 {
+    border: 2px solid cornflowerblue;
+     margin: 0 0 70px 0; /*Bottom*/
+} 
+h2 { 
+    border: 2px solid rgb(205, 100, 237);
+    margin: 30px 0 0 0; /*Top*/
+}
+
+
+
+
+
+
+
+
+
+
+
+/*margin: 100px 150px 100px 80px; */
+    /* top, right, bottom, left*/
+/*p{
+    margin-top: 100px; 
+    margin-bottom: 100px; 
+    margin-right: 150px; 
+    margin-left: 80px;
+}*/
