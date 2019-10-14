@@ -12,7 +12,7 @@
 
 
 
-.parrClassE{
+/* .parrClassE{
     background-color: slateblue;
 }
 #parrIde{
@@ -26,3 +26,83 @@ p.parrClassE{
 #spanId{
     background-color: red;
 }
+
+
+
+.parrClassE{
+    background-color: slateblue;
+}
+.bordeDotted{
+    border: 9px dotted black;
+}
+
+
+
+
+h2, p, span{
+    font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: 'Zhi Mang Xing', cursive;
+} */
+
+
+
+
+
+
+
+/* 
+#parrIdcolores{
+    background-image: url("fondo.jpg");
+
+    background-color: MediumTurquoise;
+    background-color: #48d1cc;
+    background-color: rgb(72, 209, 204);
+    background-color: hsl(178, 60%, 55%);
+
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+
+   
+
+    color: #ff3399;
+    color: rgb(255, 51, 153);
+    color: hsl(330, 100%, 60%);
+}
+ */
+
+
+ .parrClassBordes{
+    border-width: 10px;
+    border-top-style: dotted; /*Borde superior*/ 
+    border-right-style: solid; /*Borde derecho*/ 
+    border-bottom-style: dotted; /*Borde inferior*/ 
+    border-left-style: solid; /*Borde izquierdo*/
+
+
+
+
+    border-top-color:greenyellow; /*Borde superior*/ 
+    border-right-color: mediumvioletred; /*Borde derecho*/ 
+    border-bottom-color: mediumblue; /*Borde inferior*/ 
+    border-left-color:mediumslateblue; /*Borde izquierdo*/
+
+
+
+
+
+
+
+    border-radius: 50px;
+
+
+
+
+
+
+
+
+
+
+
+ }
