@@ -1,0 +1,58 @@
+
+
+
+#cajId{
+    outline: 10px dotted aqua;
+    border: 2px solid black;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+
+
+
+/* font-family: 'Modak', cursive; */
+/* font-family: 'Fascinate Inline', cursive; */
+/* font-family: 'Liu Jian Mao Cao', cursive; */
+#fuentesId{
+    border: 2px solid peru;
+    padding: 5px;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+
+
+
+
+/*Demostracion de la propiedad box-sizing*/
+
+.capaIzquierda{
+    float: left;
+    width: 20%;
+    height: 300px;
+    border: 2px solid plum;
+    padding: 10px;
+}
+.capaCentro{
+    float: left;
+    width: 60%;
+    height: 300px;
+    border: 2px solid paleturquoise;
+    padding: 20px;
+    
+}
+.capaDerecha{
+    float: left;
+    width: 20%;
+    height: 300px;
+    border: 2px solid goldenrod;
+    padding: 10px;
+    font-size: 10px;
+}
+.box{
+    box-sizing: border-box;
+}
+
+
+
