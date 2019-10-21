@@ -1,0 +1,86 @@
+
+
+
+.margenSuperior{
+    margin-top: 40px;
+}
+.margenInferior{
+    margin-bottom: 60px;
+}
+.margenIzquierdo{
+    margin-left: 100px;
+}
+.margenDerecho{
+    margin-right: 80px;
+}
+.capa{
+    border: 2px solid salmon;
+    box-sizing:border-box;
+    float: left;
+    width: 100px;
+    height: 100px;
+    overflow: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.capacentradaflotante{
+    float: left;
+    margin:auto;
+    width: 20%;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+
+.capacontenedora{
+    width: 100%;
+    display: flow-root;
+}
+
+.capaflotarDerecha{
+    float: right;
+    margin:auto;
+    width: 20%;
+    height: 300px;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mId{
+    border: 2px solid springgreen;
+    min-height: 100px;
+}
+
+
+
+
+
