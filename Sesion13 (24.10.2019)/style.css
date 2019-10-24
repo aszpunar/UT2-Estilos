@@ -1,4 +1,40 @@
 
+
+
+
+
+
+
+
+
+@font-face{
+    font-family: mifuente;
+    src: url("fuentes/FascinateInline-Regular.ttf");
+}
+
+.fuentes{
+    font-family: mifuente;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .dimensionescapa{
     width: 70%;
     height: 100px;
