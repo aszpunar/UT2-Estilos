@@ -1,0 +1,63 @@
+        .estilofuentenormal {
+            font-style: normal;
+        }
+        
+        .estilofuenteitalic {
+            font-style: italic;
+        }
+        
+        .estilofuenteoblique {
+            font-style: oblique;
+        }
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        .tamaniofuente{
+            font-size: 550%
+        }
+
+
+
+
+
+
+
+
+        .anchodefuente{
+            font-weight: 700;
+        }
+
+
+
+
+
+
+
+
+
+
+        .fontvariant{
+           font-variant: small-caps; 
+        }
