@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+a:link{
+    color:cornflowerblue;
+}
+
+a:visited{
+    color: crimson;
+}
+
+
+a:active{
+    background:fuchsia;
+}
+
+
+
+
+
+
+ol{
+    background-color: cornflowerblue ;
+    padding: 20px;
+}
+/*Los li que estén dentro de ol*/
+ol li{
+    background-color: chocolate;
+    padding: 5px;
+    margin-left:35px ;
+}
+
+
+
+
+
+
+
+ul{
+    list-style-image: url("favicon.png");
+}
+
+
+
+
+
