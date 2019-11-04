@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+ol.a{
+    list-style-position: outside;
+    border: 2px solid salmon;
+}
+ol{
+    list-style-position: inside;
+    border: 2px solid salmon;
+}
+ul{
+    list-style-position: outside;
+    border: 2px solid salmon;
+}
+ul.b{
+    list-style-position: inside;
+    border: 2px solid salmon;
+}
