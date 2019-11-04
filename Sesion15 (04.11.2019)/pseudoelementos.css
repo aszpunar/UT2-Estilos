@@ -1,0 +1,58 @@
+
+
+
+
+/*Selecciona la primera linea*/
+p.primeralinea::first-line{
+    font-size: 2em;
+}
+
+
+
+
+
+
+/*Selecciona la primera letra*/
+p.primeraletra::first-letter{
+    font-size: 80px;
+}
+
+
+
+
+
+
+
+
+
+/*Selecciona el elemento propio
+e inserta contenido en al principio */
+
+
+h6::before{
+    content: "Elemento -";
+}
+
+
+
+
+
+
+
+
+
+/*Selecciona el elemento propio
+e inserta contenido en al final */
+
+
+h5::after{
+    content: "-Serie";
+}
+
+
+
+/*Cuando seleccionas el elemento*/
+
+p.seleccion::selection{
+    background-color: lawngreen;
+}
