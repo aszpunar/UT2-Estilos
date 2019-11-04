@@ -1,0 +1,75 @@
+
+
+
+
+
+/*Coge todos los p que haya en dich div
+Aunque se encuentren dentro de otros
+elementos*/
+div.descendente  p{
+    background-color: salmon;
+}
+
+
+
+
+
+
+
+
+
+
+/*Coge solo los p dentro de ese div
+No los que están dentro de otro elemento*/
+div.hijo > p{
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+/*Adyacente hermano
+Coge el inmediatamente adyacente
+al h4 en este caso*/
+h4+h5{
+    background-color: aquamarine;
+}
+
+
+
+
+
+
+
+/*Selecciona todos los elementos
+ que son hermanos, es decir, que se
+ encuentran en el mismo nivel*/
+ span ~ p{
+    background-color: turquoise; 
+ }
+
+
+ a ~ p{
+     background-color: violet;
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
