@@ -1,0 +1,38 @@
+/* 
+
+
+
+a.resaltado:hover{
+    background-color: yellowgreen;
+}
+
+
+
+
+
+
+
+
+p.interesante { 
+   visibility: hidden;
+    background-color: yellow; 
+    padding: 20px; 
+} 
+div.interesante:hover p { 
+    visibility: visible; 
+}
+
+
+
+
+ */
+
+
+
+
+
+ 
+
+div p:first-child{
+    background-color: hotpink;
+}
