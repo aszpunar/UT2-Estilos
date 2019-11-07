@@ -1,0 +1,15 @@
+
+
+
+
+
+/*
+    Oculta el elemento pero sigue ocupando su 
+    espacio, lo vuelve transparente.
+*/
+.div{
+    border: 2px solid hotpink;
+}
+.hidden{
+    visibility: hidden;
+}
