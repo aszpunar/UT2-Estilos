@@ -1,0 +1,73 @@
+
+
+.div{
+    border: 2px solid black ;
+}
+/*Display:none
+    Hace que el elemento no se muestre
+*/
+.none{
+    display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Display:inline
+    Hace que el elemento en bloque se 
+    muestre como un elemento en linea
+*/
+
+.div{
+    border: 2px solid black ;
+}
+.inline{
+    border: 2px solid salmon;
+    display:inline;
+}
+
+
+
+
+
+
+
+
+/*Display:block
+    Hace que el elemento se muestre 
+    como un elemento en bloque
+*/
+.div{
+    border: 2px solid black ;
+}
+.block{
+    border: 2px solid salmon;
+    display:block;
+}
+
+
+
+
+
+
+/*Display:inline-block
+    Hace que a un elemento en línea 
+    se le pueda aplicar propiedades
+    de bloque
+*/
+.div{
+    border: 2px solid black ;
+}
+.inline-block{
+    border: 2px solid salmon;
+    display:inline-block;
+    width: 90%;
+}
