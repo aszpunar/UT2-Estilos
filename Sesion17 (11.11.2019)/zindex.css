@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+
+
+.capaestandarp{
+    width: 300px;
+    min-height: 200px;
+    border: 2px dashed darkturquoise;
+    background: rgba(100, 148, 237, 0.438);
+}
+
+.contenedor{
+    position: relative;
+    width: 90%;
+    min-height: 300px;
+    margin: auto;
+    border: 2px dotted darkviolet;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+.capa1{
+    position: absolute;
+    background-color: crimson;
+    top: 40px;
+    z-index: 200;
+}
+.capa2{
+
+    position: absolute;
+    background-color: cyan;
+    top: 80px;
+    left: 5%;
+    z-index: 100;
+}
