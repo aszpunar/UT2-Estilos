@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+.capaestandar {
+    width: 25%;
+    min-height: 200px;
+    border: 2px solid black;
+}
+
+.floatizquierdo {
+    float: left;
+}
+
+.floatderecho {
+    float: right;
+}
+
+.contenedor {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border: 2px solid blueviolet;
+    box-sizing: border-box;
+    clear: both;
+    min-height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+.contenedormenu{
+    width: 95%;
+    margin: auto;
+}
+.elemento{
+    float: left;
+    border: 2px  dashed salmon;
+    box-sizing: border-box;
+    width: 25%;
+    padding:15px 0;
+    text-align: center;
+}
